@@ -12,14 +12,40 @@ Any ideas or help with this project is greatly appreciated!
 - Command Line
 - Channel/Preset Fader Plugin
 - Preset Direct Select (or easier creation in softdesk?)
+- X Key Plugin
 	
 </details>
 
 <details>
 	<summary>Hardware</summary>
+
+#### KL8 Hardware In Progress:
+<details>
+	<summary>Programming Keypad</summary>
+
+#### KL8 Programming Keypad
 	
-#### KL8 Hardware to Design
+Here is the current keypad layout design, a mix of an ETC Eos and grandMA3 face panel.
+The main programming blocks are taken mostly from Eos and adapted to DMXControl 3.
+The "X Key" block is taken from the grandMA consoles. These soft keys will be full configurable to do whatever the user likes with an intuitive GUI plugin for DMXControl 3.
 	
+This design was created using a tool called Keyboard Layout Editor. Feel free to [edit it for yourself](http://www.keyboard-layout-editor.com/#/gists/e030ad35cbfd43364c7b67a4cc7e4a10).
+	
+![programming keypad](https://user-images.githubusercontent.com/62893792/164503828-c9dcf97e-7746-4914-a593-b777c53d0c12.png)
+
+	
+</details>
+	
+#### KL8 Hardware to Design:
+- Body (Case)
+- Programming Keypad Assembly
+- Keyboard Assembly
+- Fader Assembly
+- Motherboard
+- Connection Daughterboards
+- I/O Boards
+- Screen Assembly
+
 </details>
 
 ### Design
@@ -30,9 +56,9 @@ Any ideas or help with this project is greatly appreciated!
 The KL8 is a mix of grandma2/3 and ETC Eos consoles fitted for my small venue needs.
 Here are some of the reference images I'm using to design the KL8.
 
-![grandMA3](https://xom.malighting.com/xom-rest/assets/8c87901f-9cae-4149-9cf5-4250c1e677f7/preview?access_token=0Hju1Yy3EtXkbP1A7cFlx1TUwc8&width=1170&height=700&mimeType=image%2Fpng)
+![grandMA3](https://user-images.githubusercontent.com/62893792/164503343-f07e9156-be62-4ff7-a7b0-a60009f4dddd.png)
 	
-![grandMA3](https://xom.malighting.com/xom-rest/assets/9bb55f04-5b0b-4a62-a215-faa252f84921/preview?access_token=0Hju1Yy3EtXkbP1A7cFlx1TUwc8&width=1170&height=700&mimeType=image%2Fpng)
+![grandMA2](https://user-images.githubusercontent.com/62893792/164503492-7d061b76-671e-41ae-82b0-859e4e546ab4.png)
 	
 ![etc apex](https://etc.widen.net/content/wlsebguxof/jpeg/Eos_Apex20_left.jpeg)
 
