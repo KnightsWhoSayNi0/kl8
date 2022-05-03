@@ -9,10 +9,11 @@ Any ideas or help with this project is greatly appreciated!
 	<summary>Software</summary>
 	
 #### DMXControl 3 Plugins to Make:
-- Command Line
+- Command Line Plugin
 - Channel/Preset Fader Plugin
-- Preset Direct Select (or easier creation in softdesk?)
+- Preset Direct Select Plugin (or easier creation in softdesk?)
 - X Key Plugin
+- Secondary Screen Softkey & Encoder Plugin
 	
 </details>
 
@@ -24,15 +25,16 @@ Any ideas or help with this project is greatly appreciated!
 	<summary>Programming Keypad</summary>
 
 #### KL8 Programming Keypad
-	
+
+(Revision 2)
+
 Here is the current keypad layout design, a mix of an ETC Eos and grandMA3 face panel.
 The main programming blocks are taken mostly from Eos and adapted to DMXControl 3.
-The "X Key" block is taken from the grandMA consoles. These soft keys will be full configurable to do whatever the user likes with an intuitive GUI plugin for DMXControl 3.
+The "X Key" block is taken from the grandMA consoles. These X keys will be full configurable to do whatever the user likes with an intuitive GUI plugin for DMXControl 3. The screen on the left hand side is sandwiched between it's softkeys. These soft keys can relate to fixutre customization, encoder settings, or any function the user desires. There are 6 encoders (I might decide on only 4, but I'm not sure at this point) which are user assignable to fixture controls such as pan, tilt, color, or anything else.
 	
 This design was created using a tool called Keyboard Layout Editor. Feel free to [edit it for yourself](http://www.keyboard-layout-editor.com/#/gists/e030ad35cbfd43364c7b67a4cc7e4a10).
-	
-![programming keypad](https://user-images.githubusercontent.com/62893792/164503828-c9dcf97e-7746-4914-a593-b777c53d0c12.png)
 
+![programming keypad](https://user-images.githubusercontent.com/62893792/166463568-cea547dc-ee12-4e7d-be2e-6af44646ec78.jpeg)
 	
 </details>
 	
