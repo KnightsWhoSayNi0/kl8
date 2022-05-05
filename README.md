@@ -1,6 +1,11 @@
 # KL8 Lighting Console
-### Knight Industries
-By KnightsWhoSayNi
+![stars](https://img.shields.io/github/stars/KnightsWhoSayNi0/kl8) ![license](https://img.shields.io/github/license/KnightsWhoSayNi0/kl8) ![<3](https://img.shields.io/badge/made%20w%2F-%3C3-pink)
+
+### Introduction
+The Knight KL8 is a theatrical lighting control console for medium to large size but advanced shows. The KL8 console is designed with the intent of being cost effective, easy to manufacture, and extremely customizable. The KL8 can run any lighting control software, but natively runs a piece of software called [DMXControl 3](https://www.dmxcontrol.org/en/).
+
+____
+
 ### TODO:
 
 Any ideas or help with this project is greatly appreciated!
@@ -50,6 +55,8 @@ This design was created using a tool called Keyboard Layout Editor. Feel free to
 
 </details>
 
+____
+
 ### Design
 
 <details>
@@ -69,3 +76,9 @@ Here are some of the reference images I'm using to design the KL8.
 And last but not least...
 
 ![knight rider](https://user-images.githubusercontent.com/62893792/164237335-4cd6bead-046a-43cd-b988-9b3458eb659e.gif)
+	
+</details>
+
+____
+	
+*Apologies for poor MD.*
