@@ -29,8 +29,6 @@ Any ideas or help with this project is greatly appreciated!
 <details>
 	<summary>Programming Keypad</summary>
 
-#### KL8 Programming Keypad
-
 (Revision 2)
 
 Here is the current keypad layout design, a mix of an ETC Eos and grandMA3 face panel.
