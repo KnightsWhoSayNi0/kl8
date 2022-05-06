@@ -1,4 +1,4 @@
-# KL8 Lighting Console <img align=right height=40 src="https://o.remove.bg/downloads/6f2c4de2-b3a0-4a10-ad6d-098accee7d7a/2741D76E-D972-41E2-8C95-F68DE79C5C57-removebg-preview.png"/>
+# KL8 Lighting Console <img align=right height=40 src="https://user-images.githubusercontent.com/62893792/167182698-c78c3931-0607-42d5-ba53-a8f94b986069.png"/>
 ![stars](https://img.shields.io/github/stars/KnightsWhoSayNi0/kl8) ![license](https://img.shields.io/github/license/KnightsWhoSayNi0/kl8) ![<3](https://img.shields.io/badge/made%20w%2F-%3C3-pink)
 
 ### Introduction
@@ -78,4 +78,4 @@ Here are some of the reference images I'm using to design the KL8.
 
 ____
 	
-© 2022 Knight Industries | *Apologies for poor MarkDown.* <img align=right height=30 src="https://o.remove.bg/downloads/eb28f944-4594-41e4-8952-eedf744506fd/21F6A8E5-6ED5-483B-81D6-3BAF9FEBE056-removebg-preview.png"/>
+© 2022 Knight Industries | *Apologies for poor MarkDown.* <img align=right height=30 src="https://user-images.githubusercontent.com/62893792/167183089-8a6fa7f3-9431-4872-b815-e8ecd60d9a6d.png"/>
