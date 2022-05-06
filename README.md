@@ -1,4 +1,4 @@
-# KL8 Lighting Console
+# KL8 Lighting Console <img align=right height=40 src="https://o.remove.bg/downloads/6f2c4de2-b3a0-4a10-ad6d-098accee7d7a/2741D76E-D972-41E2-8C95-F68DE79C5C57-removebg-preview.png"/>
 ![stars](https://img.shields.io/github/stars/KnightsWhoSayNi0/kl8) ![license](https://img.shields.io/github/license/KnightsWhoSayNi0/kl8) ![<3](https://img.shields.io/badge/made%20w%2F-%3C3-pink)
 
 ### Introduction
