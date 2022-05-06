@@ -78,4 +78,4 @@ Here are some of the reference images I'm using to design the KL8.
 
 ____
 	
-© 2022 Knight Industries | *Apologies for poor MarkDown.*
+© 2022 Knight Industries | *Apologies for poor MarkDown.* <img align=right height=30 src="https://o.remove.bg/downloads/eb28f944-4594-41e4-8952-eedf744506fd/21F6A8E5-6ED5-483B-81D6-3BAF9FEBE056-removebg-preview.png"/>
