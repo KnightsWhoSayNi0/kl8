@@ -44,7 +44,8 @@ This design was created using a tool called Keyboard Layout Editor. Feel free to
 - Body (Case)
 - Programming Keypad Assembly
 - Keyboard Assembly
-- Fader Assembly
+- Executor Keypad Assembly (8 Executor Assemblies put together)
+- Executor (Fader + Buttons) Assembly
 - Motherboard
 - Connection Daughterboards
 - I/O Boards
